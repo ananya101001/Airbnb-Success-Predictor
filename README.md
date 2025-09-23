@@ -17,8 +17,6 @@ The system leverages **Airbnb listing data**, **U.S. Census data**, and **Walk S
 ---
 
 
----
-
 ## 📊 Assignments Breakdown  
 
 ### 1️⃣ Assignment 1 – Project Plan & Research  
