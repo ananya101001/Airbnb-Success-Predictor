@@ -5,7 +5,7 @@ A comprehensive machine learning project designed to help real estate investors 
 **Project Type:** Academic ML/Data Science Pipeline (3-part assignment)
 **Completed By:** [@ananya101001](https://github.com/ananya101001)
 
-[IEEE paper](!Predicting Airbnb Success_ A Data-Driven Investment Framework for the Los Angeles Market.pdf)
+[Airbnb Investment Framework Paper](./Predicting%20Airbnb%20Success_%20A%20Data-Driven%20Investment%20Framework%20for%20the%20Los%20Angeles%20Market.pdf)
 
 ---
 
