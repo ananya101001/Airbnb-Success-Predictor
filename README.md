@@ -1,4 +1,4 @@
-# 🏠 Airbnb Success Predictor
+#  Airbnb Success Predictor
 
 A comprehensive machine learning project designed to help real estate investors identify profitable short-term rental opportunities by predicting Airbnb listing success using data-driven decision support.
 
@@ -7,7 +7,7 @@ A comprehensive machine learning project designed to help real estate investors 
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Problem Statement](#problem-statement)
@@ -24,7 +24,7 @@ A comprehensive machine learning project designed to help real estate investors 
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 This repository contains an academic project that develops a data-driven framework for predicting the success of Airbnb listings. The system leverages Airbnb listing data, U.S. Census data, and Walk Score data to predict nightly price, occupancy likelihood, and success drivers for short-term rental properties.
 
@@ -36,7 +36,7 @@ This repository contains an academic project that develops a data-driven framewo
 
 ---
 
-## 🚨 Problem Statement
+##  Problem Statement
 
 Real estate investors face critical challenges when considering Airbnb investments:
 
@@ -50,7 +50,7 @@ This project builds a **machine learning framework** to answer these questions.
 
 ---
 
-## 📊 Project Structure
+##  Project Structure
 
 ```
 Airbnb-Success-Predictor/
@@ -93,7 +93,7 @@ Airbnb-Success-Predictor/
 
 ---
 
-## 📈 Data Sources
+##  Data Sources
 
 ### 1. **Airbnb Listing Data** 
 **Source:** [Inside Airbnb](https://insideairbnb.com/get-the-data/) – listing data (price, amenities, reviews, etc.)
@@ -115,7 +115,7 @@ Airbnb-Success-Predictor/
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 ### **Part 1: Data Integration & Exploration**
 - Merged Airbnb data with Census and Walk Score using reverse geocoding
@@ -167,7 +167,7 @@ Ran multiple models to predict `is_golden_cluster`:
 
 ---
 
-## 📊 Key Results
+##  Key Results
 
 ### **Model Performance**
 
@@ -230,7 +230,7 @@ Key Discoveries:
 
 ---
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### **Prerequisites**
 - Python 3.7+
@@ -325,7 +325,7 @@ jupyter notebook
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 ### **Success Drivers (Feature Importance)**
 
@@ -374,7 +374,7 @@ Demonstrated that data enrichment + ensemble models give the most accurate predi
 
 ---
 
-## 📚 Literature & References
+##  Literature & References
 
 **Key Research Areas:**
 - Dynamic pricing in peer-to-peer markets
@@ -389,7 +389,7 @@ Demonstrated that data enrichment + ensemble models give the most accurate predi
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! 
 
@@ -410,13 +410,13 @@ Contributions are welcome!
 
 ---
 
-## 📄 License
+##  License
 
 This project is provided for educational purposes. 
 
 ---
 
-## ✉️ Contact & Questions
+##  Contact & Questions
 
 **Project Author:** [@ananya101001](https://github.com/ananya101001)
 
@@ -427,7 +427,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## 🎓 Academic Context
+##  Academic Context
 
 **Completed As:** 3-part academic assignment
 - **Part 1:** Exploratory Data Analysis
@@ -444,7 +444,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## 📊 Key Statistics
+##  Key Statistics
 
 - **Listings Analyzed:** ~27,000
 - **Features Engineered:** 50+
@@ -455,7 +455,7 @@ For questions, suggestions, or collaboration:
 
 ---
 
-## 🎯 Quick Start
+##  Quick Start
 
 ```bash
 # Clone and setup
